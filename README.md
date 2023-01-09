@@ -1,10 +1,10 @@
-# OduncKitapProjesi-_SUNUM
+# OduncKitapProjesi_SUNUM
 
 Merhaba, Ödünç Kitap Projesini İstanbul - Beşiktaş Wissen Akademi'de Eğitmenlik yaptığım süreçte 302 sınıfım ile yazdık. Ödünç Kitap Projesi Aspnet MVC ile yazdığımız bir web projesidir. Kapsamı geniş olan bu projeyi belirli kurs sürecimizdeki zaman koşullarına göre yazdık. Projenin yazılmaaya devam eden bölümleri vardır. Bu proje ile amacımız gerçek hayata yaklaşmak ve istihdam sürecindeki hazır bulunuşluğu maksimum seviyeye getirebilmektir.
 
 Bu projenin tüm hakları ben Betül Akşan'a, 302 sabah grubu sınıfımın öğrencilerine aittir. Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
-PROJE HAKKINDA TEKNİK BİLGİLER:
+# PROJE HAKKINDA TEKNİK BİLGİLER:
 
 Proje AspNet MVC yapısıyla yazılmıştır.
 Proje Entity Framework DBFirst-Database First yaklaşımıyla yazılmıştır.
